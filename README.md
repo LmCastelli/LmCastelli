@@ -7,5 +7,5 @@ Hobbies include: </br>
 • Lifting <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/40/weight-lifter_1f3cb.png"> </br>
 • Video Games <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/313/joystick_1f579-fe0f.png"> </br>
 
-Stats:
+Stats: </br>
 <img src="https://github-readme-stats.vercel.app/api?username=LmCastelli">
