@@ -4,6 +4,7 @@ I'm Lucas Castelli, an eager full stack web developer enrolled at BloomTech (for
 
 Hobbies include: </br>
 Coding (duh) <img width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/313/man-technologist_1f468-200d-1f4bb.png">
+Lifting <img width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/40/weight-lifter_1f3cb.png">
 
 Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=LmCastelli">
