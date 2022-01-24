@@ -10,8 +10,8 @@ Hobbies include: </br>
 <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/construction_1f6a7.png"> Projects under construction/Being brainstormmed: <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/construction_1f6a7.png"> </br> </br> 
 
 • Food-Picker - stores list of inputted food options, filtering by cost, whether it delivers, healthy/unhealthy, etc. </br>
-• Rocks Papers Scissors - standard game with a twist: play with two hands at once! Each hand gets up to two points a round! </br>
-• Word Guessing Game - Hopefully like hangman/wordle, but I'll start with 4-letter words </br>
+• Rocks Papers Scissorss - standard game with a twist: play with two hands at once! Each hand gets up to two points a round! </br>
+• Word Guessing Game - Hopefully like hangman/wordle, but with 4-letter words </br>
 • Dice Roller - Dice roller for d4 up to d20 </br>
 
 Stats: </br> </br>
