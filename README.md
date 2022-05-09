@@ -11,6 +11,7 @@ Hobbies include: </br>
 
 • Food-Picker - stores list of food options, filtering by cost, delivery, healthy/unhealthy, and a few more. </br>
 • Rocks Papers Scissorss - standard game with a twist: play with two hands at once! Each hand gets up to two points a round! </br>
+*** First version is complete, check it out here -> https://github.com/LmCastelli/RPS *** </br>
 • Word Guessing Game - Hopefully like hangman/wordle, but with 4-letter words </br>
 • Dice Roller - Dice roller for d4 up to d20 </br>
 
