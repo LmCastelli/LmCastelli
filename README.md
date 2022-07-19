@@ -9,9 +9,9 @@ Hobbies include: </br>
 
 <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/construction_1f6a7.png"> Projects under construction/Being brainstormmed: <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/construction_1f6a7.png"> </br> </br> 
 
+• Portfolio - shows some projects and has some fun facts about me! <br>
+*** https://lucas-castelli-portfolio.netlify.app/ *** <br>
 • DM Helper - a project for my friend who DM's dnd sessions to help save monster info and keep track of encounter details. </br>
-• Rocks Papers Scissorss - standard game with a twist: play with two hands at once! Each hand gets up to two points a round! </br>
-*** First version is complete, check it out here -> https://github.com/LmCastelli/RPS *** </br>
 • Wordie - Wordle Clone </br>
 *** First version here -> https://github.com/LmCastelli/Wordie *** </br>
 
