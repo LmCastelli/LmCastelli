@@ -12,6 +12,8 @@ Hobbies include: <br>
 • Portfolio - shows some projects and has some fun facts about me! <br>
 *** https://lucas-castelli-portfolio.netlify.app/ *** <br>
 • DM Helper - a project for my friend who DM's dnd sessions to help save monster info and keep track of encounter details. <br>
+*** Front End -> https://github.com/LmCastelli/Encounter-Frontend
+*** Back End -> https://github.com/LmCastelli/Encounter-Backend
 • Wordie - Wordle Clone </br>
 *** First version here -> https://github.com/LmCastelli/Wordie *** <br>
 *** Play here -> https://projects-wordie.netlify.app/ *** <br>
