@@ -1,6 +1,7 @@
 ### Howdy! 👋
 
 ## I'm Lucas, nice to meetcha! 
+<img src="https://www.northcentralcollege.edu/sites/default/files/styles/full_image_large/public/2020-09/old_main_header.jpg?h=ae1281eb&itok=HhArg3jh" height="300px" width="600px" >
 I graduated from North Central College with a B.S. in Psychology and a minor in Leadership before switching gears and pursuing a career in web development!
 
 ## Hobbies include: <br>
