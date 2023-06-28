@@ -1,12 +1,13 @@
 <div align="center">
   <h1>Howdy, I'm Lucas 👋 </h1>
+  <img src="https://www.northcentralcollege.edu/sites/default/files/styles/full_image_large/public/header_vets_support_0.jpg?h=f2fcf546&itok=taYe2Ttv" width="800px" >
 </div>
 
-<div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdXSfitjrDp4dsBDV2dwnGIiScaMfhRf21w&usqp=CAU" height="200px" width="300px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSfVBkTRI2RGNCNcuOa6ru7E1ZuMPBhxRKQ&usqp=CAU" >
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztMqqU9C7aF8Mc1r_mxYCgMaysDWzN3LgFg&usqp=CAU" >
-</div>
+
+
+
+
+
 
 <br>
 I graduated from North Central College with a B.S. in Psychology and a minor in Leadership before switching gears and pursuing a career in web development!
