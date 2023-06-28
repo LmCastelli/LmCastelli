@@ -9,7 +9,7 @@ I graduated from North Central College with a B.S. in Psychology and a minor in 
 ### • Video Games 🎮 <br>
 ### • Reading 📖 <br>
 
-<img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/construction_1f6a7.png"> Projects under construction/Being brainstormmed: <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/construction_1f6a7.png"> <br> <br> 
+## 🚧 Projects under construction/Being brainstormmed 🚧  <br> <br> 
 
 • Portfolio - shows some projects and has some fun facts about me! <br>
 *** https://lucas-castelli-portfolio.netlify.app/ *** <br>
