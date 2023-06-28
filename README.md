@@ -22,18 +22,15 @@
   <h1>🚧 Projects under construction/Being brainstormmed 🚧 </h1>
   <p>Portfolio - shows some projects and has some fun facts about me!</p>
   <p>*** https://lucas-castelli-portfolio.netlify.app/ ***</p>
-  
+  <p>DM Helper - a project for my friend who DM's dnd sessions to help save monster info and keep track of encounter details</p>
+  <p>Wordie - Wordle Clone</p>
+  <p>First version here -> https://github.com/LmCastelli/Wordie ***</p>
+  <p>Play here -> https://projects-wordie.netlify.app/ ***</p>
 </div>
   
+<div align="center">
+  <h2>Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=LmCastelli">
+</div>
 
-•  <br>
-*** https://lucas-castelli-portfolio.netlify.app/ *** <br>
-• DM Helper - a project for my friend who DM's dnd sessions to help save monster info and keep track of encounter details. <br>
-*** Front End -> https://github.com/LmCastelli/Encounter-Frontend *** <br>
-*** Back End -> https://github.com/LmCastelli/Encounter-Backend *** <br>
-• Wordie - Wordle Clone </br>
-*** First version here -> https://github.com/LmCastelli/Wordie *** <br>
-*** Play here -> https://projects-wordie.netlify.app/ *** <br>
 
-Stats: <br> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=LmCastelli">
